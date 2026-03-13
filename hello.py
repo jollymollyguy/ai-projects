@@ -1,0 +1,1 @@
+print("Day 1. Let's go.")
