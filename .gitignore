@@ -2,4 +2,5 @@ tempCodeRunnerFile.py
 __pycache__/
 *.pyc
 *.txt
+*.json
 .env

@@ -23,9 +23,9 @@ def get_joke():
     except requests.exceptions.ConnectionError:
         print("Error: No internet connection.")
 
-get_joke()
+    get_joke()
 
-
+        
 # ── Block 4: Weather API ───────────────────────────────────
 
 API_KEY = "your_api_key_here"
@@ -46,4 +46,4 @@ def get_weather(city):
         print("Error: No internet connection.")
 
 get_weather("Kathmandu")
-get_weather("Pokhara")
+get_weather("Pokhara")      
