@@ -1,5 +1,4 @@
 import json
-from re import U
 import requests
 # Exercise 1 — JSON manipulation. Create a dictionary of 3 freelance projects, each with keys: client, service, price, completed. Write it to a JSON file. Read it back and print only the projects where completed is False.
 
