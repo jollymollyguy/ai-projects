@@ -1,3 +1,4 @@
+# Git ignore rules for ai-projects
 tempCodeRunnerFile.py
 __pycache__/
 *.pyc
