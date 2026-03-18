@@ -1,0 +1,1 @@
+# Branching is process of writing and saving code in a insolated place which is not merged into main code file until it's clean and ready to publish.
